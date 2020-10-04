@@ -1,0 +1,153 @@
+1995 1st version
+James Gosling
+one remote control
+different gadgets
+washing machine
+domestic appliances
+chip which programmed implant not same
+on dish washer - start functioning
+on tv
+c++ platform architecture dependant
+make changes to program native language
+oak
+oak not machine specific but s/w h/w middle ware implanted in machine - convert to machine specific - translator
+JVM came up
+project failed
+byproduct 94 95 interact era - html pages low bandwidth limited script
+applet - small application embedded - gaming - dynamic
+netscape navigator, microsoft rejected - can harm - download from internet - virus
+sandbox - isolate from running os
+JVM - machine specific
+indonesia island
+coffee
+platform independent 32 64 architecture
+os to operate on h/w
+core part of os - kernel talks to h/w
+s/w on os - actually talking to underlying architecture
+no common JVM - different JVMs
+install JVM in the form JRE
+
+class loader
+Bootstrap - system class
+extension
+application
+class loader - upload class - create own
+
+verify - check virus - violate - security exception
+prepare
+resolve dependencies
+
+override dev code with malicious code - virus
+
+program (static) converted to process (in memory represnetation of that program)
+
+main inbuilt thread
+
+code is in method area
+no global variable in JAVA
+
+heap - objects are created
+
+thread - CPU executing
+
+OS time slicing for each process to execute
+PC register - bookmark - remember page number
+native - c++
+interpreter - line by line
+compile exe directly
+here interpreter
+JIT compiler - run in algorithm - repeated cpu cycle wastage
+garbage collector - low priority thread - object not being used
+cant increase heap at runtime
+assigning null so new objects use released memory
+similar process mapping as c
+thread code under execution
+java natively
+multithread
+process - 1 thread reading, 1 writing parallel jobs
+
+
+5 steps
+src --> complie --> class loader --> bytecode verify --> interpret --> execute
+
+write dev JDK
+
+just execute JRE
+oracle acquired sun microsystem
+14 latest version
+
+bin binary
+small applications
+jar
+jrt jar files
+jvm for windows
+
+no path --> goto location where
+cmd prompt locate where so path setup environment - where location
+
+java --version
+java -version
+cls
+notepad
+
+class 1st letter caps
+public then same class name
+no public any name
+ren -- rename
+no 2 public class
+n number of class -- n number of .class files
+
+javac compile file name
+
+java execute class name
+
+binary answer
+
+Unix
+Propraitary
+licensed
+Linux freeware kernel different type of shell, bash shell - general purpose
+fedora red hat centos ubuntu
+writing on server - stable than windows
+admin Linux
+dev Windows
+rpm
+Linux redhat rpm package manager - zip - msi files
+su - switch user
+
+
+eclipse - jdbc - external jar file - build path
+
+CLASSPATH
+3rd party
+location of jar files
+javac -cp
+. dot current path
+
+
+overloading many main method
+static non static main same
+no order arg different
+
+
+executable main method JRE lookup for main
+
+public accessible outside class in any package anywhere
+static class level not object level
+void not return - no use of returning -
+c int main no exception
+
+command line argument - runtime
+string - any number character any
+
+System class
+final cant inherit
+out variable of
+java.lang package
+
+System
+in read
+out write
+error
+
+parsing converting wrapper class
